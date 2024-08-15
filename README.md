@@ -37,7 +37,7 @@ python train.py \
 --bottleneck
 ```
 
-Setting `--cf` for counterfactual learning schema, `--mutual` for contrastive hard sample generation, `--no_polar` for disable polar transformation. Toggling `--verbose` for progressive bar.
+Toggling `--cf` for counterfactual learning schema, `--mutual` for contrastive hard sample generation, `--no_polar` for disable polar transformation, `--verbose` for progressive bar.
 
 This code will create a folder named by `--save_suffix` to store weights. To resume training you can set `--resume_from` by giving the folder name. All parameters will be set automatically.
 
