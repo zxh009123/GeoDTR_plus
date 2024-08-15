@@ -2,7 +2,7 @@
 
 This is the official implementation of our paper "GeoDTR+: Toward generic cross-view geolocalization via geometric disentanglement". This paper was driven by our previous research "Cross-view geo-localization via learning disentangled geometric layout correspondence"([paper](https://ojs.aaai.org/index.php/AAAI/article/view/25457), [code](https://gitlab.com/vail-uvm/geodtr)).
 
-In this work, we propose GeoDTR+ with an enhanced GLE module that better models the correlations among visual features. To fully explore the LS techniques from our preliminary work, we further propose Contrastive Hard Samples Generation (CHSG) to facilitate model training.
+In this work, we extend our previous GeoDTR into GeoDTR+ with an enhanced GLE module that better models the correlations among visual features. To fully explore the LS techniques from our preliminary work, we further propose Contrastive Hard Samples Generation (CHSG) to facilitate model training. For detail information, please refer to our [paper](https://arxiv.org/abs/2308.09624). This paper will be published in IEEE Transactions on Pattern Analysis and Machine Intelligence and [early access](https://ieeexplore.ieee.org/document/10636837) is available now.
 
 # Usage
 
