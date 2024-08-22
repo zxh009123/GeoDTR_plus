@@ -55,7 +55,9 @@ Both script supports toggling `--verbose` for progressive bar.
 
 ## Pre-trained weights
 
-We plan to release the pre-trained weights and they are ready now. However, we are actively seeking places to host them. Please check back later.
+The pre-trained weights can be found [here](https://drive.google.com/file/d/1JeX4378JDRlBIQGQ6ZVOYmQ_02YjZgKH/view?usp=sharing). 
+
+After extracting the file, there should be six folders containing pre-trained weights for CVUSA w/ polar transformation (CVUSA), CVACT w/ polar transformation (CVACT), CVUSA w/o polar transformation (CVUSA_NP), CVACT w/o polar transformation (CVACT_NP), VIGOR same-area (VIGOR_same), and VIGOR cross-area (VIGOR_cross). Please following previous guidelines to evaluate the model.
 
 # Citation
 
