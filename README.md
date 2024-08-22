@@ -6,6 +6,14 @@ In this work, we extend our previous GeoDTR into GeoDTR+ with an enhanced GLE mo
 
 # Usage
 
+## Prerequisites
+1. numpy
+2. Pytorch >= 1.13
+3. torchvision >= 0.12
+4. tqdm
+5. scipy
+6. PIL
+
 ## datasets
 
 ### CVUSA
